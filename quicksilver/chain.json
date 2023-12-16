@@ -274,6 +274,10 @@
         "provider": "Quicksilver"
       },
       {
+        "address": "https://api-quicksilver.d-stake.xyz:443",
+        "provider": "D-Stake"
+      },
+      {
         "address": "http://quicksilver.statesync.nodersteam.com:16657",
         "provider": "[NODERS]TEAM"
       },
@@ -356,6 +360,10 @@
         "provider": "TAKESHI"
       },
       {
+        "address": "https://api-quicksilver.d-stake.xyz:443",
+        "provider": "D-Stake"
+      },
+      {
         "address": "https://api-quicksilver-ia.cosmosia.notional.ventures:443",
         "provider": "Notional"
       },
@@ -432,6 +440,10 @@
       {
         "address": "grpc-quicksilver.takeshi.team:443",
         "provider": "TAKESHI"
+      },
+      {
+        "address": "https://grpc-quicksilver.d-stake.xyz:443",
+        "provider": "D-Stake"
       },
       {
         "address": "grpc-quicksilver-ia.cosmosia.notional.ventures:443",
