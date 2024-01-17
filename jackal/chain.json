@@ -209,6 +209,10 @@
         "provider": "BccNodes"
       },
       {
+        "address": "https://rpc-jackal.d-stake.xyz",
+        "provider": "D-Stake"
+      },
+      {
         "address": "https://rpc.jackal.nodestake.top",
         "provider": "NodeStake"
       },
@@ -265,6 +269,10 @@
       {
         "address": "https://api.jackal.nodestake.top",
         "provider": "NodeStake"
+      },
+      {
+        "address": "https://api-jackal.d-stake.xyz",
+        "provider": "D-Stake"
       },
       {
         "address": "http://jackal.api.nodersteam.com:2917",
@@ -327,6 +335,10 @@
       {
         "address": "jackal-grpc.polkachu.com:17590",
         "provider": "Polkachu"
+      },
+      {
+        "address": "https://grpc-jackal.d-stake.xyz",
+        "provider": "D-Stake"
       },
       {
         "address": "http://jkl.grpc.m.stavr.tech:5013",
